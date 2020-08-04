@@ -10,7 +10,7 @@ interface PageHeaderProps {
     title: string;
 }
 
-const PageHeader: React.FunctionComponent<PageHeaderProps> = (props) => {
+const PageHeader: React.FC<PageHeaderProps> = (props) => {
     return (
         <header className="page-header">
             <div className="top-bar-container">
@@ -28,6 +28,6 @@ const PageHeader: React.FunctionComponent<PageHeaderProps> = (props) => {
 
         </header>
     );
-}
+};
 
 export default PageHeader;
