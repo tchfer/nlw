@@ -83,7 +83,7 @@
 }
 
 .total-connections {
-    font-size: 1.4rem; /* Verificar isso depois */
+    font-size: 1.4rem;
 
     display: flex;
     align-items: center;
@@ -99,14 +99,13 @@
         max-width: 1100px;
 
         display: grid;
-        /* Quebra a página em colunas e fileiras. Design legal sem esse bloco também */
         grid-template-rows: 350px 1fr;
         grid-template-columns: 2fr 1fr 1fr;
         grid-template-areas: 
             "logo hero hero"
             "buttons buttons total"
         ;
-    }
+}
 
     .logo-container {
         grid-area: logo;
