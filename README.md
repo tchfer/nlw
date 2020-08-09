@@ -15,9 +15,7 @@
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to Run](#construction_worker-how-to-run)
-- [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
-- [License](#closed_book-license)
+- [Improvements to be made](#pushpin)
 
 # :computer: Technologies
 
@@ -91,5 +89,26 @@ $ yarn start or npm run start
 ```
 
 Lastly, read the QRCode by using the app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
+
+# Todo :pushpin:
+
+Version 2.0 Features
+
+ - [ ] Splash screen
+ - [ ] Extended layout
+   - [ ] Login
+   - [ ] Sign In
+   - [ ] Succeed Screen
+ - [ ] User auth
+   - [ ] Web
+     - [ ] Remember me
+   - [ ] Mobile
+ - [ ] Password recovery
+ - [ ] Teacher profile
+ - [ ] Pagination of classes result
+ - [ ] Show teacher's schedule hours
+ - [ ] Save favourite teachers
+ - [ ] User logout
+ - [ ] Deploy
 
 Give a ⭐️ if this project helped you!
