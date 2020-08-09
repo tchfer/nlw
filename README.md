@@ -8,7 +8,7 @@
 </a>
 
 
-> :rocket: Project made to connect teachers and students, made in Next Level Week #2 by @Rocketseat
+:rocket: Project made to connect teachers and students, made in Next Level Week #2 by @Rocketseat
 
 # :pushpin: Table of Contents
 
