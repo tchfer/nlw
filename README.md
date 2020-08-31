@@ -38,7 +38,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/vsamarcus/proffy.git
+$ git clone https://github.com/tchfer/nlw.git
 ```
 
 ### 📦 Run API
